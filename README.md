@@ -2,7 +2,7 @@
 
 This log lists the architectural decisions for Forms Service. 
 
-- [ADR-0001](https://github.com/18F/formsservice-adr/blob/main/ADR-0001-static-assets.md) - Static Asset storage.
+- [001](https://github.com/18F/formsservice-adr/blob/main/001-static-assets.md) - Static Asset storage.
 
 For new ADRs, please use [template.md](template.md).
 
